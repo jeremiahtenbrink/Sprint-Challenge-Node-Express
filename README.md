@@ -26,13 +26,23 @@ Demonstrate your understanding of this Sprint's concepts by answering the follow
 
 - [ ] Mention two parts of Express that you learned about this week.
 
+We learned about express middleware and about express router. 
+
 - [ ] Describe Middleware?
+
+Middle ware is 3rd party code that can be added to express. 
 
 - [ ] Describe a Resource?
 
+The app.resource() method returns a new Resource object, which can be used to further map pathnames, nest resources, and more.
+
 - [ ] What can the API return to help clients know if a request was successful?
 
+Status code and message. 
+
 - [ ] How can we partition our application into sub-applications?
+
+By using routes and different routers.
 
 ## Project Setup
 
